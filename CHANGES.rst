@@ -1,7 +1,8 @@
 CHANGELOG
 =========
 
-0.8.0
+0.8.1
+----------
 ----------
 
 - [feature] Kill all running mirakuru subprocesses on python exit.
